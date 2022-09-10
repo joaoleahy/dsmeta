@@ -1,5 +1,6 @@
 # DSMETA
 Projeto pessoal, desenvolvido em um evento da [DevSuperior](https://www.instagram.com/devsuperior.ig/), onde é possível consultar uma tabela com dados de vendedores para avaliar suas metas alcançadas e enviar um SMS com os dados do vendedor, anunciando que ele foi o destaque de vendas, dentro de um período filtrado por datas.
+
 ![image](https://user-images.githubusercontent.com/86070920/189484763-2ce4810e-4957-4349-8dce-c6888051f98a.png)
 
 
@@ -47,12 +48,3 @@ ReactJS
 # Overview da aplicação
 
 ![image](https://user-images.githubusercontent.com/72102636/179445590-909dbaee-cbba-4a99-b81c-956397805325.png)
-
-# SDS: Instalação das ferramentas no Windows
-- JDK 17
-- STS
-- Postman
-- Heroku CLI
-- NodeJS 16.x 
-- VS Code
-- Git
