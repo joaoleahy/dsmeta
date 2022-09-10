@@ -9,10 +9,10 @@ Criação e versionamento do projeto com Git e Github, layout estático, compone
 # Ferramentas utilizadas  
 ## Back-end
 ### Linguagens
-Java
-SQL
+Java;
+SQL;
 ### Framework
-Spring
+Spring;
 ### Banco de dados
 H2
 ## Front-end
