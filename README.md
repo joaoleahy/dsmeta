@@ -7,25 +7,25 @@ Projeto pessoal, desenvolvido em um evento da [DevSuperior](https://www.instagra
 ## Tópicos trabalhados
 Criação e versionamento do projeto com Git e Github, layout estático, componentes React, DatePicker, React Hook useState, entidades, banco de dados (mapeamento objeto-relacional (JPA)), database seed, listagem de dados, API REST (repository, service, controller), integração com SMS, integração front end e back end, requisições com Axios, React Hook UseEffect, parâmetros de consulta, implantação na nuvem com CI/CD (entrega e integração contínuas), toast (react), design com Figma, componentização.
 # Ferramentas utilizadas  
-## Back end
+## Back-end
 ### Linguagens
-Java;
-SQL;
+Java
+SQL
 ### Framework
-Springboot;
+Spring
 ### Banco de dados
 H2
-## Front end
+## Front-end
 ### Linguagens
 JavaScript/TypeScript;
 ### Frameworks
 ReactJS
 ## IDE's
-> VS Code
-- IntelliCode
-- ESLint
-- JSX HTML <tags/>
-> STS ou outros
+- VS Code
+> IntelliCode
+> ESLint
+> JSX HTML <tags/>
+- Spring Tools Suite
 ## Outros
 > Nodejs 16 e Yarn
 
